@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/front-challenge/static/css/main.7711d410.css",
+    "main.js": "/front-challenge/static/js/main.25e46d08.js",
+    "static/js/787.c186b321.chunk.js": "/front-challenge/static/js/787.c186b321.chunk.js",
+    "static/media/Pointer.svg": "/front-challenge/static/media/Pointer.921f0689f5a3cbfb5d96.svg",
+    "static/media/loop-studios.svg": "/front-challenge/static/media/loop-studios.7778c957c5751d1502cc.svg",
+    "static/media/photosnap.svg": "/front-challenge/static/media/photosnap.5a867c13a374d62b400f.svg",
+    "static/media/manage.svg": "/front-challenge/static/media/manage.5a528a9669728fb94c8c.svg",
+    "static/media/insure.svg": "/front-challenge/static/media/insure.4d535e7e02c25d02b163.svg",
+    "static/media/account.svg": "/front-challenge/static/media/account.903d6cd02abadf4b4d60.svg",
+    "static/media/eyecam-co.svg": "/front-challenge/static/media/eyecam-co.0abb14e8a292eed471d5.svg",
+    "static/media/shortly.svg": "/front-challenge/static/media/shortly.3c01b577742e2648f6f9.svg",
+    "static/media/myhome.svg": "/front-challenge/static/media/myhome.aaaaa430346f24f652d5.svg",
+    "static/media/the-air-filter-company.svg": "/front-challenge/static/media/the-air-filter-company.9b55f6443c39f7b79348.svg",
+    "static/media/faceit.svg": "/front-challenge/static/media/faceit.54a148ce9e8793ff767e.svg",
+    "static/media/bg-header-desktop.svg": "/front-challenge/static/media/bg-header-desktop.9b3db09a607d7fa827871e027488fff4.svg",
+    "index.html": "/front-challenge/index.html",
+    "static/media/bg-header-mobile.svg": "/front-challenge/static/media/bg-header-mobile.208894f4e43f11bac3f20083d633d936.svg",
+    "static/media/icon-remove.svg": "/front-challenge/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.7711d410.css.map": "/front-challenge/static/css/main.7711d410.css.map",
+    "main.25e46d08.js.map": "/front-challenge/static/js/main.25e46d08.js.map",
+    "787.c186b321.chunk.js.map": "/front-challenge/static/js/787.c186b321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7711d410.css",
+    "static/js/main.25e46d08.js"
+  ]
+}
